@@ -1,0 +1,8 @@
+{
+  "name": "Remix المحاسب الذكي للمناديب والمخازن",
+  "description": "تطبيق إدارة المخازن، المبيعات الميدانية، ودليل الحسابات المصمم خصيصاً لشاشات الجوال والمناديب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
